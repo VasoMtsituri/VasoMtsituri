@@ -7,4 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 *.pyc
-*.json
+/guja_task/*.json
