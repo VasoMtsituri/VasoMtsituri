@@ -1,0 +1,10 @@
+total 16
+
+drwxrwxr-x 2 vaso vaso 4096 იან 21 13:08 .
+
+drwxrwxr-x 5 vaso vaso 4096 იან 21 11:25 ..
+
+-rw-rw-r-- 1 vaso vaso  388 იან 21 12:00 lin1.py
+
+-rw-rw-r-- 1 vaso vaso  215 იან 21 13:08 lin2.py
+

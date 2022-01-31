@@ -1,0 +1,6 @@
+[100]
+    - Clean Code [20] - 10
+    - Architecture [20] - 15
+    - Functions [20] - 17
+    - Documentation [20] - 0
+    - Error-proof [20] - 5
