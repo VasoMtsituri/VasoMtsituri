@@ -7,4 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 /*.pyc
-/guja_task/creds.json
+guja_task/creds.json
