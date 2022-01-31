@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e385ac11-fe9c-40f4-9f8c-3a3fea669cd6" name="Changes" comment="" />
+    <list default="true" id="e385ac11-fe9c-40f4-9f8c-3a3fea669cd6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/guja_task/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/guja_task/helper.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +217,7 @@
       <workItem from="1643348602896" duration="9798000" />
       <workItem from="1643366026474" duration="2537000" />
       <workItem from="1643607524471" duration="11631000" />
-      <workItem from="1643620359589" duration="15752000" />
+      <workItem from="1643620359589" duration="16099000" />
     </task>
     <servers />
   </component>

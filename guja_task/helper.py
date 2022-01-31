@@ -170,6 +170,12 @@ def transform_h_data(df):
 
 
 def measure_data_quality(db_table, dw_data):
+    """
+
+    :param db_table: database table
+    :param dw_data: for us, it's psa data (json, for example, like this situation)
+    :return: creates txt file, in which data quality is measured
+    """
     engine = connect_2_psql(CREDS_PATH)
     result = engine.execute(f"""SELECT pg_size_pretty( pg_total_relation_size('{db_table}') );""")
     result_as_list = result.fetchall()
